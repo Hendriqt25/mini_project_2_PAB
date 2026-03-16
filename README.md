@@ -104,7 +104,13 @@ jika pengguna berhasil login sebagai admin maka,
 
 <img src="images/admin.png" width="700">
 
-Mempunyai dashboard admin terdiri dari informasi titipan, pendapatan, berapa pesanan, daftar pesanan seluruh pelanggannya, create pesanan, update pesanan, delete pesanan.   
+Mempunyai dashboard admin terdiri dari informasi titipan, pendapatan, berapa pesanan, daftar pesanan seluruh pelanggannya, create pesanan, update pesanan, delete pesanan.  
+
+#### List Pesanan 
+
+<img src="images/list titipan.png" width="700">
+
+list pesanan berbagai macam barang.
 
 ### Create
 
@@ -130,7 +136,18 @@ Jika pengguna ingin delete barang titipannya
 
 Tinggal klik icon sampah untuk delete barang titipannya dan ada notifikasi apakah yakin ingin menghapusnya ?, jika ingin maka terhapus dan jika tidak maka tidak terhapus.
 
-### 
+### dark mode dan light mode
+
+#### Dark Mode
+
+<img src="images/darkmode.png" width="700">
+
+#### Light Mode
+
+<img src="images/admin.png" width="700">
+
+
+
 
 
 
