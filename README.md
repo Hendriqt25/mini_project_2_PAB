@@ -146,7 +146,9 @@ Tinggal klik icon sampah untuk delete barang titipannya dan ada notifikasi apaka
 
 <img src="images/admin.png" width="700">
 
+### Kesimpulan
 
+Aplikasi Jasa Titip adalah aplikasi layanan jasa titip berbasis Flutter yang menerapkan konsep CRUD, integrasi database menggunakan Supabase, navigasi antar halaman, serta pengaturan tampilan tema aplikasi berupa Light Mode dan Dark Mode. Melalui pengembangan proyek ini, diharapkan mampu memahami proses pembuatan aplikasi mobile yang terhubung dengan layanan backend, pengelolaan state aplikasi, serta pengaturan antarmuka pengguna yang lebih modern.
 
 
 
