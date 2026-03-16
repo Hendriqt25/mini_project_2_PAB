@@ -78,7 +78,59 @@ lib/t
 
 ### Login
 
+<img src="images/login.png" width="700">
 
+Ketika aplikasi dijalankan, pengguna diminta menginput email dan password. Jika baru pertama kali, pengguna mengklik sign up dan akan menuju halaman register.
+
+### Register
+
+<img src="images/register.png" width="700">
+
+Dihalaman register, pengguna akan diminta menginput nama, email dan password yang benar dan jika berhasil akan masuk ke dashboard pelanggan.
+
+### Dashboard 
+
+#### Dashboard Pelanggan 
+
+Jika pengguna berhasil login sebagai pelanggan maka,
+
+<img src="images/pelanggan.png" width="700">
+
+Mempunyai dashboard sendiri yaitu barang yang dia titipin, bisa create, update dan delete barang titipannya.
+
+#### Dashboard Admin
+
+jika pengguna berhasil login sebagai admin maka,
+
+<img src="images/admin.png" width="700">
+
+Mempunyai dashboard admin terdiri dari informasi titipan, pendapatan, berapa pesanan, daftar pesanan seluruh pelanggannya, create pesanan, update pesanan, delete pesanan.   
+
+### Create
+
+Jika pengguna ingin memesan barang titipan dengan cara,
+
+<img src="images/create.png" width="700">
+
+Pada halaman create, pengguna diminta nama barang, lokasi, dan nama pemesanan dan harga. 
+
+### Update
+
+Jika pengguna ingin mengupdate barang titipan nya
+
+<img src="images/update.png" width="700">
+
+Pada halaman update, pengguna diminta nama barang, lokasi, dan nama pemesanan dan harga jika ingin diupdate. kalau ada perubahan otomatis ke update dan jika tidak ada perubahan maka tidak ada perubahan.
+
+### Delete
+
+Jika pengguna ingin delete barang titipannya 
+
+<img src="images/delete.png" width="700">
+
+Tinggal klik icon sampah untuk delete barang titipannya dan ada notifikasi apakah yakin ingin menghapusnya ?, jika ingin maka terhapus dan jika tidak maka tidak terhapus.
+
+### 
 
 
 
