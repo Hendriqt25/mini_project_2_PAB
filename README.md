@@ -28,21 +28,27 @@ lib/t
 ## Fitur Aplikasi
 
 1. Login dan register
+   
    Aplikasi ini menyediakan login untuk pengguna lama dan register untuk pengguna baru.
    
-2. Create 
+2. Create
+   
    Pengguna dapat menambahkan pesananan titipan dengan mengisi form input seperti nama barang, lokasi, nama pemesan dan harga.
 
-3. Read 
+3. Read
+   
    Aplikasi menampilkan daftar pemesanan titipan yang telah dimasukkan.
 
-4. Update 
+4. Update
+    
    Pengguna dapat mengubah data pemesanan titipan seperti nama barang, lokasi, nama pemesan dan harga
 
-5. Delete 
+5. Delete
+    
    Pengguna dapat menghapus data pemesanan titipan.
 
 6. Multi Page Navigation
+    
    Aplikasi memiliki beberapa halaman:
    - Halaman Utama (Dashboard)
    - Halaman Tambah pesanan titipan
@@ -50,6 +56,31 @@ lib/t
 
 7. Dark dan light mode
    Aplikasi menyediakan dua mode tampilan yaitu dark mode dan light mode yang dapat digunakan oleh pengguna.
+
+## Widget yang Digunakan
+
+- MaterialApp
+- Scaffold
+- AppBar
+- GridView
+- TextField
+- ElevatedButton
+- FloatingActionButton
+- Navigator
+- ConstrainedBox
+- GestureDetector
+- AlertDialog   
+- CircularProgressIndicator
+- OutlineInputBorder
+- FilteringTextInputFormatter
+
+## Simulasi Aplikasi
+
+### Login
+
+
+
+
 
    
   
