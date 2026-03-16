@@ -132,7 +132,7 @@ Pada halaman update, pengguna diminta nama barang, lokasi, dan nama pemesanan da
 
 Jika pengguna ingin delete barang titipannya 
 
-<img src="images/delete.png" width="700">
+<img src="images/hapus.png" width="700">
 
 Tinggal klik icon sampah untuk delete barang titipannya dan ada notifikasi apakah yakin ingin menghapusnya ?, jika ingin maka terhapus dan jika tidak maka tidak terhapus.
 
